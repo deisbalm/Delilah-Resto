@@ -25,7 +25,7 @@
 						"header":[],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n\"usuario\": \"Leandrouno\",\r\n\"contrasena\":\"123\"\r\n}",
+							"raw": "{\r\n\"usuario\": \"Denisab\",\r\n\"contrasena\":\"123\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -71,7 +71,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n        \"id\": 1,\r\n        \"usuario\": \"Leandrouno\",\r\n        \"nombre\": \"Leandro\",\r\n        \"apellido\": \"Mugnolo\"\r\n    }",
+							"raw": "{\r\n        \"id\": 1,\r\n        \"usuario\": \"Denisab\",\r\n        \"nombre\": \"Denise\",\r\n        \"apellido\": \"Balmaceda\"\r\n    }",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -110,7 +110,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "    {\r\n        \"usuario\": \"Bart\",\r\n        \"nombre\": \"Bart\",\r\n        \"apellido\": \"Montes\",\r\n        \"email\":\"barto@lito.com\",\r\n        \"contrasena\":\"secret\",\r\n        \"telefono\": 1233652,\r\n        \"domicilio\": \"la granja 236\"\r\n    }\r\n",
+							"raw": "    {\r\n        \"usuario\": \"Isabor\",\r\n        \"nombre\": \"Isabel\",\r\n        \"apellido\": \"Ortiz\",\r\n        \"email\":\"isabortiz@gmail.com\",\r\n        \"contrasena\":\"secret\",\r\n        \"telefono\": 567,\r\n        \"domicilio\": \"California,USA\"\r\n    }\r\n",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -153,7 +153,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "    {\r\n        \"usuario\": \"Bartolito\",\r\n        \"nombre\": \"Bartolo Meoh\",\r\n        \"apellido\": \"Paredes\",\r\n        \"email\":\"barto@lito.com\",\r\n        \"contrasena\":\"secret\",\r\n        \"telefono\": 1233652,\r\n        \"domicilio\": \"la granja 236\"\r\n    }",
+							"raw": "    {\r\n        \"usuario\": \"brancel\",\r\n        \"nombre\": \"Brandon\",\r\n        \"apellido\": \"Celiz\",\r\n        \"email\":\"bran@gmail.com\",\r\n        \"contrasena\":\"1234\",\r\n        \"telefono\": 4564789,\r\n        \"domicilio\": \"Villa la Angostura,Neuquén\"\r\n    }",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -192,7 +192,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "    {\r\n        \"usuario\": \"Bartolito\",\r\n        \"nombre\": \"Bartolo Meoh\",\r\n        \"apellido\": \"Paredes\",\r\n        \"email\":\"barto@lito.com\",\r\n        \"contrasena\":\"secret\",\r\n        \"telefono\": 1233652,\r\n        \"domicilio\": \"la granja 236\"\r\n    }",
+							"raw": "    {\r\n        \"usuario\": \"brancel\",\r\n        \"nombre\": \"Brandon\",\r\n        \"apellido\": \"Celiz\",\r\n        \"email\":\"bran@gmail.com\",\r\n        \"contrasena\":\"1234\",\r\n        \"telefono\": 4564789,\r\n        \"domicilio\": \"Villa la Angostura,Neuquén\"\r\n    }",
 							"options": {
 								"raw": {
 									"language": "json"
