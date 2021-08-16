@@ -1,44 +1,41 @@
+Delilah Resto 
 
-🔧  Delilah Resto 
 
-Tercer Proyecto DWFS.
-
-⚙️ Procedimiento :
-
-1 - Instalación 🔩
+1 - Instalación
 
 Clonar proyecto desde la consola :
 
-⌨️ git clone https://github.com/deisbalm/delilah-resto 
+*git clone https://github.com/deisbalm/delilah-resto 
 
-2 - Instalación de dependencias 🔩
+2 - Instalación de dependencias
 
 
-⌨️ npm install
+*npm install
 
-3 - Crear base de datos 🔩
+3 - Crear base de datos
 
 
 Importar el Archivo delilah.sql desde el panel de Administracion
 Recuerde Editar el archivo config/config.js con los datos de su entorno.
 
-4 - Iniciar el servidor 🔩
+4 - Iniciar el servidor
 
 
 Abrir el archivo servidor.js desde VisualStudio y ejecutar en terminal :
 
-⌨️ nodemon servidor.js
+nodemon servidor.js
 
- 5 - Ya puedes utitlizar la app ! 🔩
+5 - Ya puedes utitlizar la app
+
 
 
 6 - Puedes ver algunos endpoints desde el siguiente link:
-https://github.com/deisbalm/delilah_resto/blob/main/Delilah.postman_collection.json
+https://github.com/deisbalm/delilah-resto/blob/main/Delilah.postman_collection.json
 
-7 Descargate el YAML
+7 Descarga el YAML
 
 
- 8 ENDPOINT
+8 ENDPOINT
 
 localhost:3000/v1
 
@@ -72,3 +69,4 @@ localhost:3000/v1
 |  PUT   | /pedidos			  |{ estado , id_pedido }       |           {token }    		| Permite editar el Estado del Pedido   (Solo Admin)     |
 | DELETE | /pedidos           |{id ,token}	        	    |           {token }    		| Elimina un pedido                     (Solo Admin)     |
 |--------|--------------------|-----------------------------|-------------------------------|--------------------------------------------------------|
+
