@@ -9,7 +9,7 @@ Tercer Proyecto DWFS.
 
 Clonar proyecto desde la consola :
 
-⌨️ git clone https://github.com/deisbalm/delilah_resto 
+⌨️ git clone https://github.com/deisbalm/delilah-resto 
 
 2 - Instalación de dependencias 🔩
 
