@@ -5,9 +5,9 @@ const connect =
 {
     DATABASE: 'delilah',
     DIALECT: 'mysql',
-    HOST: '192.168.1.146',
-    PASSWORD: 'Acamica123',
-    USERNAME: 'acamica'
+    HOST: 'localhost',
+    PASSWORD: '',
+    USERNAME: 'root'
 }
 
 
