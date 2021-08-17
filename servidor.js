@@ -2,7 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const expressJwt = require("express-jwt");
 const puerto = 3000;
-const { firm } = require('./confi/config.js');
+const { firm } = require('./config/config.js');
 const app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
